@@ -1,0 +1,77 @@
+body {
+   /* background-color: yellow;*/
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+#POSTTITLE{
+  width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#CONTENT{
+	width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#PIC{
+	width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#POSTCATEGORY{
+	 width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#author{
+	 width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+#SUBMIT{
+	width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0 0 50%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.lab{
+	color: green;
+	margin-left: 10px;
+}
